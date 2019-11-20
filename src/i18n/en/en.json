@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "nav": {
+      "home": "home"
+    },
+
+    "home": {
+      "finished_loading": "Finished Loading..."
+    }
+  }
+}
