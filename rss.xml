@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Handshake Alliance Blog]]></title><description><![CDATA[Blog for the Handshake Alliance]]></description><link>https://blog.handshakealliance.org</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Nov 2019 22:18:21 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://blog.handshakealliance.org/hello-world/</link><guid isPermaLink="false">https://blog.handshakealliance.org/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg&quot;
+        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/8ee9c/salty_egg.jpg 148w,
+/static/8058f3f26913fea3b6a89a73344fe94a/ebbe7/salty_egg.jpg 295w,
+/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg 590w,
+/static/8058f3f26913fea3b6a89a73344fe94a/5413e/salty_egg.jpg 885w,
+/static/8058f3f26913fea3b6a89a73344fe94a/4efde/salty_egg.jpg 1180w,
+/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg 2048w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
