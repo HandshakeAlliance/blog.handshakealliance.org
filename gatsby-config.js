@@ -48,9 +48,10 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-solitude`,
+      resolve: "gatsby-plugin-solitude",
       options: {
-        siteId: `1234567890`,
+        // Unique site id
+        siteId: "1234-5678-9012",
       },
     },
     `gatsby-plugin-feed`,
