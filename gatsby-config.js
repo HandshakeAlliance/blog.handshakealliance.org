@@ -48,9 +48,10 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: "gatsby-plugin-solitude",
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        // Unique site id
+        siteId: "1234-5678-9012",
       },
     },
     `gatsby-plugin-feed`,
